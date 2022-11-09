@@ -15,49 +15,49 @@ const data = [
     id: 1,
     imgSrc: Smart,
     altText: 'Smart',
-    title: 'Smart Features',
+    title: 'Fonctionnalités intelligentes',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Des rapports téléchargeable et modifiable après export.',
   },
   {
     id: 2,
     imgSrc: Winner,
     altText: 'Performance',
-    title: 'Fast Performance',
+    title: 'Performances rapides',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      ' Une application performante pour augmenter la productivité des collaborateurs.',
   },
   {
     id: 3,
     imgSrc: Cloud,
     altText: 'Content',
-    title: 'Unlimited Content',
+    title: 'Contenu illimité',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Création de rapport sans limite.',
   },
   {
     id: 4,
     imgSrc: Setting,
     altText: 'Customization',
-    title: 'Unlimited Customization',
+    title: 'Personnalisation illimitée',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Choisisez le type d\'étapes, les couleurs du rapport, etc ... ',
   },
   {
     id: 5,
     imgSrc: Design,
     altText: 'Productivity',
-    title: 'Boost Productivity',
+    title: 'Booster la productivité',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Moins de temps consacré a l’édition des rapport de fuite, et plus de temps sur le terrain.',
   },
   {
     id: 6,
     imgSrc: Chat,
     altText: 'Support',
-    title: 'Customer Support',
+    title: 'Service client',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Notre équipe est disponible et réactive a vos demandes.',
   },
 ];
 
@@ -66,8 +66,8 @@ export default function Feature() {
     <section sx={{ variant: 'section.feature' }}>
       <Container>
         <SectionHeader
-          slogan="Quality features"
-          title="Meet exciting feature of app"
+          slogan="Tout en main"
+          title="Découvrez les fonctionnalités passionnante de l'application"
         />
 
         <Grid sx={styles.grid}>

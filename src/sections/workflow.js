@@ -10,27 +10,27 @@ import ArrowEven from 'assets/arrowEven.png';
 const data = [
   {
     id: 1,
-    title: 'Set disbursement Instructions',
+    title: 'Choisir un type et un modèle d\'intervention',
     text:
       'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 2,
-    title: 'Assembly retrieves funds from your account',
+    title: 'Associer un client et un collaborateur',
     text:
       'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 3,
-    title: 'Assembly initiates disbursement',
+    title: 'Compléter les étapes (photos, textes...) ',
     text:
       'Get your blood tests delivered at home collect a sample from the your blood tests.',
   },
   {
     id: 4,
-    title: 'Customer receives funds payment',
+    title: 'Générer le rapport',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Générer, visualiser et envoyer le rapport au format modfifiable doc.',
   },
 ];
 
@@ -39,8 +39,8 @@ export default function WorkFlow() {
     <section sx={styles.workflow}>
       <Container>
         <SectionHeader
-          slogan="Whats the function"
-          title="Let’s see how it works"
+          slogan="Comment ça fonctionne ?"
+          title="Créer une fiche d'intervention"
           isWhite={true}
         />
 

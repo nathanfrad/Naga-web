@@ -9,7 +9,7 @@ import Secure from 'assets/core-feature/secure.svg';
 
 const data = {
   subTitle: 'Core features',
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  title: 'Remontez les informations terrain efficacement',
   features: [
     {
       id: 1,
@@ -17,15 +17,15 @@ const data = {
       altText: 'Smart Features',
       title: 'Smart Features',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Les collaborateurs sur le terrain ajoutent les informations associées à l’intervention pendant la journée (photos, commentaires..) en utilisant l’application mobile de gestion des interventions.',
     },
     {
       id: 2,
       imgSrc: Secure,
       altText: 'Secure Contents',
-      title: 'Secure Contents',
+      title: 'Rapport automatisé',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Vous dématérialisez les fiches d’intervention, ce qui permet une communication efficace avec les clients et les équipes, un meilleur archivage et garantit un « effet waouh » pour vos clients.',
     },
   ],
 };

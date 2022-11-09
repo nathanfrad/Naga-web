@@ -12,25 +12,25 @@ const data = [
     id: 1,
     imgSrc: Vector,
     altText: 'Vector',
-    title: 'Vector Editing',
+    title: 'Simple',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Ajouter facilement des photos et commentaires dans vos rapports.',
   },
   {
     id: 2,
     imgSrc: Editing,
-    altText: 'Monitoring',
-    title: 'Customize & Monitoring',
+    altText: 'Personnalisable',
+    title: 'Personnalisable',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Possibilité de créer vos propres scénario d’intervention. Rapport modifiable apres export.',
   },
   {
     id: 3,
     imgSrc: Speed,
-    altText: 'Quality',
-    title: 'Quality & Short-period',
+    altText: 'Rapidité',
+    title: 'Rapidité',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'A l’aide d’un simple téléphone, vos collaborateurs remontent facilement les photos et détails des interventions.',
   },
 ];
 
@@ -40,7 +40,7 @@ export default function KeyFeature() {
       <Container>
         <SectionHeader
           slogan="Quality features"
-          title="Meet exciting feature of app"
+          title="Un générateur de rapport spécialisé dans la recherche de fuite "
         />
 
         <Grid sx={styles.grid}>

@@ -6,11 +6,11 @@ import Image from 'components/image';
 import Partner from 'assets/partner.png';
 
 const data = {
-  subTitle: 'Core features',
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  subTitle: 'Rapport de recherche de fuite d\'eau',
+  title: 'Générez vos fiches d\'interventions facilement',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever. Get your tests delivered at let home collect sample.',
-  btnName: 'Get Started',
+    'Les fiches d’interventions sont créées automatiquement et dynamiquement pour un gain de temps dans la saisie des bons d’interventions.',
+  btnName: 'Demander une démo',
   btnURL: '#',
 };
 

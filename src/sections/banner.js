@@ -43,13 +43,11 @@ export default function Banner() {
     <section sx={styles.banner} id="home">
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
-          <Heading as="h1" variant="heroPrimary">
-            Découvrez votre application mobile NAGA
+          <Heading as="h2" variant="heroPrimary">
+          Générez vos rapports d’intervention rapidement avec NAGA
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Get your blood tests delivered at let home collect sample from the
-            victory of the managements that supplies best design system
-            guidelines ever.
+          Avec un simple téléphone, vous générez vos fiches d’interventions depuis le terrain pour les envoyer en 1 clic à vos clients et aux équipes bureau.
           </Text>
           <Flex>
             <Button variant="whiteButton" aria-label="Get Started">
